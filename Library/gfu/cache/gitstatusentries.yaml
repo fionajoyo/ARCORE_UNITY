@@ -1,0 +1,336 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-07T16:28:50.495+08:00
+  initializedAtString: 2021-07-07T16:26:01.072+08:00
+  entries:
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UPRSettings.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\UPRSettings.asset
+    projectPath: ProjectSettings\UPRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\06612c125c414c86eb0c821e7bc61e5d.bakert
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\ProcessJobs\06612c125c414c86eb0c821e7bc61e5d.bakert
+    projectPath: Temp\ProcessJobs\06612c125c414c86eb0c821e7bc61e5d.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-047962583ccfe9d499c553192a0759e5
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-047962583ccfe9d499c553192a0759e5
+    projectPath: Temp\UnityTempFile-047962583ccfe9d499c553192a0759e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0ccaa8c6a052125479a853ed54764680
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-0ccaa8c6a052125479a853ed54764680
+    projectPath: Temp\UnityTempFile-0ccaa8c6a052125479a853ed54764680
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0d6538c3d2c2c344fbb4e99aaa13903e
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-0d6538c3d2c2c344fbb4e99aaa13903e
+    projectPath: Temp\UnityTempFile-0d6538c3d2c2c344fbb4e99aaa13903e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-101b25cfde9fac9438fb5db6003880ef
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-101b25cfde9fac9438fb5db6003880ef
+    projectPath: Temp\UnityTempFile-101b25cfde9fac9438fb5db6003880ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-119d0b5dd58cb024c81de727c395a0d8
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-119d0b5dd58cb024c81de727c395a0d8
+    projectPath: Temp\UnityTempFile-119d0b5dd58cb024c81de727c395a0d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1966d7ac444051840858f63c10226023
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-1966d7ac444051840858f63c10226023
+    projectPath: Temp\UnityTempFile-1966d7ac444051840858f63c10226023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-270a964ddc66e4545a07689a5044f784
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-270a964ddc66e4545a07689a5044f784
+    projectPath: Temp\UnityTempFile-270a964ddc66e4545a07689a5044f784
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2953886c392acd9489dd14c651318b84
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-2953886c392acd9489dd14c651318b84
+    projectPath: Temp\UnityTempFile-2953886c392acd9489dd14c651318b84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2aa76edce0de9d44fb679f44cdabb1a8
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-2aa76edce0de9d44fb679f44cdabb1a8
+    projectPath: Temp\UnityTempFile-2aa76edce0de9d44fb679f44cdabb1a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-399884422711d324da3599f12a3a711d
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-399884422711d324da3599f12a3a711d
+    projectPath: Temp\UnityTempFile-399884422711d324da3599f12a3a711d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3c5e7979ea5a8ad4c954f6f942ea9bcd
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-3c5e7979ea5a8ad4c954f6f942ea9bcd
+    projectPath: Temp\UnityTempFile-3c5e7979ea5a8ad4c954f6f942ea9bcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6e4d1bb787fbdfb41b740328826cd640
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-6e4d1bb787fbdfb41b740328826cd640
+    projectPath: Temp\UnityTempFile-6e4d1bb787fbdfb41b740328826cd640
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-80dafba7b747aee49adef62e0af18f95
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-80dafba7b747aee49adef62e0af18f95
+    projectPath: Temp\UnityTempFile-80dafba7b747aee49adef62e0af18f95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-891ac892883921b4d85db6d046397353
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-891ac892883921b4d85db6d046397353
+    projectPath: Temp\UnityTempFile-891ac892883921b4d85db6d046397353
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8e3b7252d0eebe04e873d919201e972e
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-8e3b7252d0eebe04e873d919201e972e
+    projectPath: Temp\UnityTempFile-8e3b7252d0eebe04e873d919201e972e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8eb90ae35ce916a4595fb2a384622e90
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-8eb90ae35ce916a4595fb2a384622e90
+    projectPath: Temp\UnityTempFile-8eb90ae35ce916a4595fb2a384622e90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-92fbcbb87557d84458b124541dadae0f
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-92fbcbb87557d84458b124541dadae0f
+    projectPath: Temp\UnityTempFile-92fbcbb87557d84458b124541dadae0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a3d91f1ba1dc69c45b0abbfed5da2129
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-a3d91f1ba1dc69c45b0abbfed5da2129
+    projectPath: Temp\UnityTempFile-a3d91f1ba1dc69c45b0abbfed5da2129
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ae20531b7f74a204398283d813868beb
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-ae20531b7f74a204398283d813868beb
+    projectPath: Temp\UnityTempFile-ae20531b7f74a204398283d813868beb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-afdd671089cdaaa4aa0da52dc11ba2ae
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-afdd671089cdaaa4aa0da52dc11ba2ae
+    projectPath: Temp\UnityTempFile-afdd671089cdaaa4aa0da52dc11ba2ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-afe761d82a52cba4aba80a98f09e4013
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-afe761d82a52cba4aba80a98f09e4013
+    projectPath: Temp\UnityTempFile-afe761d82a52cba4aba80a98f09e4013
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b9b1d7ce8dd959849a5cb8b55eaf8634
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-b9b1d7ce8dd959849a5cb8b55eaf8634
+    projectPath: Temp\UnityTempFile-b9b1d7ce8dd959849a5cb8b55eaf8634
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-be38a74e03367fb43a09e9cdbad780b6
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-be38a74e03367fb43a09e9cdbad780b6
+    projectPath: Temp\UnityTempFile-be38a74e03367fb43a09e9cdbad780b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c4fe31c63ce9efc4e8a09f23ad244457
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-c4fe31c63ce9efc4e8a09f23ad244457
+    projectPath: Temp\UnityTempFile-c4fe31c63ce9efc4e8a09f23ad244457
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d04f2bfef4eecab4eaffdd5326073bb6
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-d04f2bfef4eecab4eaffdd5326073bb6
+    projectPath: Temp\UnityTempFile-d04f2bfef4eecab4eaffdd5326073bb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d2e7fedbebbde7847999367709f24355
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-d2e7fedbebbde7847999367709f24355
+    projectPath: Temp\UnityTempFile-d2e7fedbebbde7847999367709f24355
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d482313f366abf3418e534c5882f209e
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-d482313f366abf3418e534c5882f209e
+    projectPath: Temp\UnityTempFile-d482313f366abf3418e534c5882f209e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-db0339e7a4bf0804a81bd0711025885b
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-db0339e7a4bf0804a81bd0711025885b
+    projectPath: Temp\UnityTempFile-db0339e7a4bf0804a81bd0711025885b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e0e3de4ab3d21f14ab56005ea581c3ec
+    fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\UnityTempFile-e0e3de4ab3d21f14ab56005ea581c3ec
+    projectPath: Temp\UnityTempFile-e0e3de4ab3d21f14ab56005ea581c3ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
