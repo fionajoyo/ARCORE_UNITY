@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 4e5245ca84cee5340be55a7ecd25760d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10-Pin
+    100002: 10-Pin_2
+    100004: 14-Pin
+    100006: 14-Pin_2
+    100008: 240V Kettle Plug
+    100010: 240V Kettle Plug_2
+    100012: 240V Kettle Plug_3
+    100014: 240V Kettle Plug_4
+    100016: 240V Kettle Plug_5
+    100018: 240V Kettle Plug_6
+    100020: 6-Pin
+    100022: 6-Pin_2
+    100024: 6-Pin_3
+    100026: 6-Pin_4
+    100028: 6-Pin_5
+    100030: 8-Pin
+    100032: 8-Pin_2
+    100034: 8-Pin_3
+    100036: 8-Pin_4
+    100038: Copy of Internals^Corsair RM750
+    100040: Copy of Internals^Corsair RM750_10
+    100042: Copy of Internals^Corsair RM750_11
+    100044: Copy of Internals^Corsair RM750_12
+    100046: Copy of Internals^Corsair RM750_2
+    100048: Copy of Internals^Corsair RM750_3
+    100050: Copy of Internals^Corsair RM750_4
+    100052: Copy of Internals^Corsair RM750_5
+    100054: Copy of Internals^Corsair RM750_6
+    100056: Copy of Internals^Corsair RM750_7
+    100058: Copy of Internals^Corsair RM750_8
+    100060: Copy of Internals^Corsair RM750_9
+    100062: Corsair Air Series 140 Fan Frame
+    100064: Corsair Air Series 140 Fan Frame_2
+    100066: Corsair Air Series 140 Fan Frame_3
+    100068: Corsair Air Series 140 Fan Frame_4
+    100070: Corsair Air Series 140 Fan Frame_5
+    100072: Corsair Air Series 140 Fan Frame_6
+    100074: Corsair Air Series 140 Fan Frame_7
+    100076: Corsair Air Series 140 Fan Frame_8
+    100078: Corsair Air Series SP140
+    100080: Corsair Air Series SP140 Fanblade
+    100082: Corsair Air Series SP140 Fanblade_2
+    100084: Corsair Air Series SP140 Fanblade_3
+    100086: Corsair Link 4-pin
+    100088: Corsair Link 4-pin_2
+    100090: Corsair Link 4-pin_3
+    100092: Corsair Link 4-pin_4
+    100094: Corsair Link 4-pin_5
+    100096: Corsair Link 4-pin_6
+    100098: Fan Grill
+    100100: Fan Grill_10
+    100102: Fan Grill_11
+    100104: Fan Grill_12
+    100106: Fan Grill_13
+    100108: Fan Grill_14
+    100110: Fan Grill_15
+    100112: Fan Grill_16
+    100114: Fan Grill_17
+    100116: Fan Grill_18
+    100118: Fan Grill_19
+    100120: Fan Grill_2
+    100122: Fan Grill_20
+    100124: Fan Grill_21
+    100126: Fan Grill_3
+    100128: Fan Grill_4
+    100130: Fan Grill_5
+    100132: Fan Grill_6
+    100134: Fan Grill_7
+    100136: Fan Grill_8
+    100138: Fan Grill_9
+    100140: Lower Chassis
+    100142: Lower Chassis_2
+    100144: Lower Chassis_3
+    100146: Perspective
+    100148: Rear Sticker
+    100150: Rear Sticker_2
+    100152: //RootNode
+    100154: Rocker
+    100156: Rocker Frame
+    100158: Rocker Frame_2
+    100160: Rocker Switch
+    100162: Rocker_2
+    100164: Side Sticker
+    100166: Side Sticker_2
+    100168: Side Sticker_3
+    100170: Upper Chassis
+    100172: Upper Chassis_2
+    400000: 10-Pin
+    400002: 10-Pin_2
+    400004: 14-Pin
+    400006: 14-Pin_2
+    400008: 240V Kettle Plug
+    400010: 240V Kettle Plug_2
+    400012: 240V Kettle Plug_3
+    400014: 240V Kettle Plug_4
+    400016: 240V Kettle Plug_5
+    400018: 240V Kettle Plug_6
+    400020: 6-Pin
+    400022: 6-Pin_2
+    400024: 6-Pin_3
+    400026: 6-Pin_4
+    400028: 6-Pin_5
+    400030: 8-Pin
+    400032: 8-Pin_2
+    400034: 8-Pin_3
+    400036: 8-Pin_4
+    400038: Copy of Internals^Corsair RM750
+    400040: Copy of Internals^Corsair RM750_10
+    400042: Copy of Internals^Corsair RM750_11
+    400044: Copy of Internals^Corsair RM750_12
+    400046: Copy of Internals^Corsair RM750_2
+    400048: Copy of Internals^Corsair RM750_3
+    400050: Copy of Internals^Corsair RM750_4
+    400052: Copy of Internals^Corsair RM750_5
+    400054: Copy of Internals^Corsair RM750_6
+    400056: Copy of Internals^Corsair RM750_7
+    400058: Copy of Internals^Corsair RM750_8
+    400060: Copy of Internals^Corsair RM750_9
+    400062: Corsair Air Series 140 Fan Frame
+    400064: Corsair Air Series 140 Fan Frame_2
+    400066: Corsair Air Series 140 Fan Frame_3
+    400068: Corsair Air Series 140 Fan Frame_4
+    400070: Corsair Air Series 140 Fan Frame_5
+    400072: Corsair Air Series 140 Fan Frame_6
+    400074: Corsair Air Series 140 Fan Frame_7
+    400076: Corsair Air Series 140 Fan Frame_8
+    400078: Corsair Air Series SP140
+    400080: Corsair Air Series SP140 Fanblade
+    400082: Corsair Air Series SP140 Fanblade_2
+    400084: Corsair Air Series SP140 Fanblade_3
+    400086: Corsair Link 4-pin
+    400088: Corsair Link 4-pin_2
+    400090: Corsair Link 4-pin_3
+    400092: Corsair Link 4-pin_4
+    400094: Corsair Link 4-pin_5
+    400096: Corsair Link 4-pin_6
+    400098: Fan Grill
+    400100: Fan Grill_10
+    400102: Fan Grill_11
+    400104: Fan Grill_12
+    400106: Fan Grill_13
+    400108: Fan Grill_14
+    400110: Fan Grill_15
+    400112: Fan Grill_16
+    400114: Fan Grill_17
+    400116: Fan Grill_18
+    400118: Fan Grill_19
+    400120: Fan Grill_2
+    400122: Fan Grill_20
+    400124: Fan Grill_21
+    400126: Fan Grill_3
+    400128: Fan Grill_4
+    400130: Fan Grill_5
+    400132: Fan Grill_6
+    400134: Fan Grill_7
+    400136: Fan Grill_8
+    400138: Fan Grill_9
+    400140: Lower Chassis
+    400142: Lower Chassis_2
+    400144: Lower Chassis_3
+    400146: Perspective
+    400148: Rear Sticker
+    400150: Rear Sticker_2
+    400152: //RootNode
+    400154: Rocker
+    400156: Rocker Frame
+    400158: Rocker Frame_2
+    400160: Rocker Switch
+    400162: Rocker_2
+    400164: Side Sticker
+    400166: Side Sticker_2
+    400168: Side Sticker_3
+    400170: Upper Chassis
+    400172: Upper Chassis_2
+    2000000: Perspective
+    2100000: "\u6750\u8D28_1"
+    2300000: 10-Pin_2
+    2300002: 14-Pin_2
+    2300004: 240V Kettle Plug_2
+    2300006: 240V Kettle Plug_3
+    2300008: 240V Kettle Plug_4
+    2300010: 240V Kettle Plug_5
+    2300012: 240V Kettle Plug_6
+    2300014: 6-Pin_2
+    2300016: 6-Pin_3
+    2300018: 6-Pin_4
+    2300020: 6-Pin_5
+    2300022: 8-Pin_2
+    2300024: 8-Pin_3
+    2300026: 8-Pin_4
+    2300028: Copy of Internals^Corsair RM750_10
+    2300030: Copy of Internals^Corsair RM750_11
+    2300032: Copy of Internals^Corsair RM750_12
+    2300034: Copy of Internals^Corsair RM750_2
+    2300036: Copy of Internals^Corsair RM750_3
+    2300038: Copy of Internals^Corsair RM750_4
+    2300040: Copy of Internals^Corsair RM750_5
+    2300042: Copy of Internals^Corsair RM750_6
+    2300044: Copy of Internals^Corsair RM750_7
+    2300046: Copy of Internals^Corsair RM750_8
+    2300048: Copy of Internals^Corsair RM750_9
+    2300050: Corsair Air Series 140 Fan Frame_3
+    2300052: Corsair Air Series 140 Fan Frame_4
+    2300054: Corsair Air Series 140 Fan Frame_5
+    2300056: Corsair Air Series 140 Fan Frame_6
+    2300058: Corsair Air Series 140 Fan Frame_7
+    2300060: Corsair Air Series 140 Fan Frame_8
+    2300062: Corsair Air Series SP140 Fanblade_3
+    2300064: Corsair Link 4-pin_2
+    2300066: Corsair Link 4-pin_3
+    2300068: Corsair Link 4-pin_4
+    2300070: Corsair Link 4-pin_5
+    2300072: Corsair Link 4-pin_6
+    2300074: Fan Grill_10
+    2300076: Fan Grill_11
+    2300078: Fan Grill_12
+    2300080: Fan Grill_13
+    2300082: Fan Grill_14
+    2300084: Fan Grill_15
+    2300086: Fan Grill_16
+    2300088: Fan Grill_17
+    2300090: Fan Grill_18
+    2300092: Fan Grill_19
+    2300094: Fan Grill_2
+    2300096: Fan Grill_20
+    2300098: Fan Grill_21
+    2300100: Fan Grill_3
+    2300102: Fan Grill_4
+    2300104: Fan Grill_5
+    2300106: Fan Grill_6
+    2300108: Fan Grill_7
+    2300110: Fan Grill_8
+    2300112: Fan Grill_9
+    2300114: Lower Chassis_2
+    2300116: Lower Chassis_3
+    2300118: Rear Sticker_2
+    2300120: Rocker Frame_2
+    2300122: Rocker_2
+    2300124: Side Sticker_2
+    2300126: Side Sticker_3
+    2300128: Upper Chassis_2
+    3300000: 10-Pin_2
+    3300002: 14-Pin_2
+    3300004: 240V Kettle Plug_2
+    3300006: 240V Kettle Plug_3
+    3300008: 240V Kettle Plug_4
+    3300010: 240V Kettle Plug_5
+    3300012: 240V Kettle Plug_6
+    3300014: 6-Pin_2
+    3300016: 6-Pin_3
+    3300018: 6-Pin_4
+    3300020: 6-Pin_5
+    3300022: 8-Pin_2
+    3300024: 8-Pin_3
+    3300026: 8-Pin_4
+    3300028: Copy of Internals^Corsair RM750_10
+    3300030: Copy of Internals^Corsair RM750_11
+    3300032: Copy of Internals^Corsair RM750_12
+    3300034: Copy of Internals^Corsair RM750_2
+    3300036: Copy of Internals^Corsair RM750_3
+    3300038: Copy of Internals^Corsair RM750_4
+    3300040: Copy of Internals^Corsair RM750_5
+    3300042: Copy of Internals^Corsair RM750_6
+    3300044: Copy of Internals^Corsair RM750_7
+    3300046: Copy of Internals^Corsair RM750_8
+    3300048: Copy of Internals^Corsair RM750_9
+    3300050: Corsair Air Series 140 Fan Frame_3
+    3300052: Corsair Air Series 140 Fan Frame_4
+    3300054: Corsair Air Series 140 Fan Frame_5
+    3300056: Corsair Air Series 140 Fan Frame_6
+    3300058: Corsair Air Series 140 Fan Frame_7
+    3300060: Corsair Air Series 140 Fan Frame_8
+    3300062: Corsair Air Series SP140 Fanblade_3
+    3300064: Corsair Link 4-pin_2
+    3300066: Corsair Link 4-pin_3
+    3300068: Corsair Link 4-pin_4
+    3300070: Corsair Link 4-pin_5
+    3300072: Corsair Link 4-pin_6
+    3300074: Fan Grill_10
+    3300076: Fan Grill_11
+    3300078: Fan Grill_12
+    3300080: Fan Grill_13
+    3300082: Fan Grill_14
+    3300084: Fan Grill_15
+    3300086: Fan Grill_16
+    3300088: Fan Grill_17
+    3300090: Fan Grill_18
+    3300092: Fan Grill_19
+    3300094: Fan Grill_2
+    3300096: Fan Grill_20
+    3300098: Fan Grill_21
+    3300100: Fan Grill_3
+    3300102: Fan Grill_4
+    3300104: Fan Grill_5
+    3300106: Fan Grill_6
+    3300108: Fan Grill_7
+    3300110: Fan Grill_8
+    3300112: Fan Grill_9
+    3300114: Lower Chassis_2
+    3300116: Lower Chassis_3
+    3300118: Rear Sticker_2
+    3300120: Rocker Frame_2
+    3300122: Rocker_2
+    3300124: Side Sticker_2
+    3300126: Side Sticker_3
+    3300128: Upper Chassis_2
+    4300000: Lower Chassis_2
+    4300002: Lower Chassis_3
+    4300004: Upper Chassis_2
+    4300006: 240V Kettle Plug_2
+    4300008: 240V Kettle Plug_3
+    4300010: 240V Kettle Plug_4
+    4300012: 240V Kettle Plug_5
+    4300014: 240V Kettle Plug_6
+    4300016: 10-Pin_2
+    4300018: 14-Pin_2
+    4300020: 6-Pin_2
+    4300022: 6-Pin_3
+    4300024: 6-Pin_4
+    4300026: 6-Pin_5
+    4300028: 8-Pin_2
+    4300030: 8-Pin_3
+    4300032: 8-Pin_4
+    4300034: Rocker Frame_2
+    4300036: Rocker_2
+    4300038: Side Sticker_2
+    4300040: Side Sticker_3
+    4300042: Fan Grill_2
+    4300044: Fan Grill_3
+    4300046: Fan Grill_4
+    4300048: Fan Grill_5
+    4300050: Fan Grill_6
+    4300052: Fan Grill_7
+    4300054: Fan Grill_8
+    4300056: Fan Grill_9
+    4300058: Fan Grill_10
+    4300060: Fan Grill_11
+    4300062: Fan Grill_12
+    4300064: Fan Grill_13
+    4300066: Fan Grill_14
+    4300068: Fan Grill_15
+    4300070: Fan Grill_16
+    4300072: Fan Grill_17
+    4300074: Fan Grill_18
+    4300076: Fan Grill_19
+    4300078: Fan Grill_20
+    4300080: Fan Grill_21
+    4300082: Corsair Air Series 140 Fan Frame_3
+    4300084: Corsair Air Series 140 Fan Frame_4
+    4300086: Corsair Air Series 140 Fan Frame_5
+    4300088: Corsair Air Series 140 Fan Frame_6
+    4300090: Corsair Air Series 140 Fan Frame_7
+    4300092: Corsair Air Series 140 Fan Frame_8
+    4300094: Corsair Air Series SP140 Fanblade_3
+    4300096: Rear Sticker_2
+    4300098: Copy of Internals^Corsair RM750_2
+    4300100: Copy of Internals^Corsair RM750_3
+    4300102: Copy of Internals^Corsair RM750_4
+    4300104: Copy of Internals^Corsair RM750_5
+    4300106: Copy of Internals^Corsair RM750_6
+    4300108: Copy of Internals^Corsair RM750_7
+    4300110: Copy of Internals^Corsair RM750_8
+    4300112: Copy of Internals^Corsair RM750_9
+    4300114: Copy of Internals^Corsair RM750_10
+    4300116: Copy of Internals^Corsair RM750_11
+    4300118: Copy of Internals^Corsair RM750_12
+    4300120: Corsair Link 4-pin_2
+    4300122: Corsair Link 4-pin_3
+    4300124: Corsair Link 4-pin_4
+    4300126: Corsair Link 4-pin_5
+    4300128: Corsair Link 4-pin_6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
