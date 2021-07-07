@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-07-07T16:28:50.495+08:00
+  lastUpdatedAtString: 2021-07-07T16:29:25.401+08:00
   initializedAtString: 2021-07-07T16:26:01.072+08:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -26,128 +26,14 @@ MonoBehaviour:
     fullPath: D:\fionajoyo unity\ARCORE_UNITY\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: D:\fionajoyo unity\ARCORE_UNITY\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\AudioManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\AudioManager.asset
-    projectPath: ProjectSettings\AudioManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\ClusterInputManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\ClusterInputManager.asset
-    projectPath: ProjectSettings\ClusterInputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\DynamicsManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\DynamicsManager.asset
-    projectPath: ProjectSettings\DynamicsManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\EditorSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\GraphicsSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\GraphicsSettings.asset
-    projectPath: ProjectSettings\GraphicsSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\InputManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\NavMeshAreas.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\NetworkManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\NetworkManager.asset
-    projectPath: ProjectSettings\NetworkManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\Physics2DSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\PresetManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\TagManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\TimeManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\UPRSettings.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\UPRSettings.asset
-    projectPath: ProjectSettings\UPRSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\VFXManager.asset
-    fullPath: D:\fionajoyo unity\ARCORE_UNITY\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\ProcessJobs\06612c125c414c86eb0c821e7bc61e5d.bakert
     fullPath: D:\fionajoyo unity\ARCORE_UNITY\Temp\ProcessJobs\06612c125c414c86eb0c821e7bc61e5d.bakert
     projectPath: Temp\ProcessJobs\06612c125c414c86eb0c821e7bc61e5d.bakert
